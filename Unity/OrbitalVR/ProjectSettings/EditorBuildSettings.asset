@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/demo.unity
+  - enabled: 0
+    path: Assets/00_Everything/Resources/Scenes/kalin_vr.unity
+  - enabled: 0
+    path: Assets/00_Everything/Resources/Scenes/Deploy/spaceship.unity
+  - enabled: 0
+    path: Assets/00_Everything/Resources/Scenes/Deploy/Eddie_Test_01.unity
+  - enabled: 0
+    path: Assets/00_Everything/Resources/Scenes/Deploy/spaceship2.unity
+  - enabled: 0
+    path: Assets/00_Everything/Resources/Scenes/pat_playscene.unity
+  - enabled: 0
+    path: Assets/coty_demo.unity
+  - enabled: 0
+    path: Assets/00_Everything/Resources/Scenes/kalin_demoscene.unity
+  - enabled: 0
+    path: Assets/00_Everything/Resources/Scenes/DeathScreen.unity
+  - enabled: 0
+    path: Assets/00_Everything/Resources/Scenes/MainMenuSimple.unity
+  - enabled: 0
+    path: Assets/00_Everything/Resources/Scenes/pat_environment.unity
+  - enabled: 0
+    path: Assets/00_Everything/Resources/Scenes/pat_tutorial.unity
+  - enabled: 1
+    path: Assets/00_Everything/ResourcesStatic/Scenes/DeathScreen.unity
+  - enabled: 1
+    path: Assets/00_Everything/ResourcesStatic/Scenes/MainMenuSimple.unity
+  - enabled: 1
+    path: Assets/00_Everything/ResourcesStatic/Scenes/pat_environment.unity
+  - enabled: 1
+    path: Assets/00_Everything/ResourcesStatic/Scenes/pat_strategy.unity
+  - enabled: 1
+    path: Assets/00_Everything/ResourcesStatic/Scenes/pat_tutorial.unity
+  - enabled: 1
+    path: Assets/00_Everything/ResourcesStatic/Scenes/kat_wave_mode.unity

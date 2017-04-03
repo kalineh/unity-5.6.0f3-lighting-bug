@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DroneScoutDisplay
+  - DroneRocket
+  - PylonDarkMatter
+  - Orbiter
+  - Obelisk
+  - Enemy
+  - Drone
+  - tbe_room
+  - HelpBox
+  - Overlord
+  - OverlordSpawner
+  - TwitchChatPanel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - VIVE_RESERVED
+  - WORLD
+  - Item
+  - Structure
+  - Drone
+  - Tool
+  - Player
+  - Terrain
+  - Interactive
+  - Enemy
+  - EquipmentSlot
+  - Gib
+  - Projectile
+  - Pylon
+  - PlayerController
+  - PlayerVacuum
+  - TerrainDetector
+  - OLD_PLAYER_CONTROLLER
+  - Shield
+  - Rocks
+  - MetaZone
+  - EnemyStructure
+  - Bubble
+  - MapIcon
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1
+    uniqueID: 730779959
+    locked: 0
